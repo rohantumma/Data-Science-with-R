@@ -1,0 +1,2 @@
+library(MASS)
+painters
